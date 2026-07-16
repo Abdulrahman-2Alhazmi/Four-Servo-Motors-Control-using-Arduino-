@@ -21,7 +21,7 @@ This image shows the complete Arduino circuit in Tinkercad, including the Arduin
 **Project Image**
 
 <p align="center">
-  <img src="images/project-preview.png" width="600">
+  <img src=""C:\Users\daabb\OneDrive\الصور\Screenshots\Screenshot 2026-07-16 165148.png"" width="600">
 </p>
 
 ---
@@ -32,31 +32,25 @@ This image shows the complete Arduino circuit in Tinkercad, including the Arduin
 
 This video demonstrates the initial test to ensure that the Arduino board is working correctly before connecting the servo motors.
 
-▶️ [Watch Video](videos/test-arduino.mp4)
+▶️ [Watch Video](videos/video1.mp4)
 
 ---
 
 ### 2. Two Servo Motors Test
 
-This video shows two servo motors connected through the breadboard. Both motors move together from **0° to 180°** and then return to **0°** successfully.
+This video shows one servo motor connected through the breadboard. the motor move from **0° to 180°** and then return to **0°** successfully.
 
-▶️ [Watch Video](videos/two-servos.mp4)
-
----
-
-### 3. Four Servo Motors Test
-
-This video demonstrates all four servo motors connected through the breadboard. They rotate together from **0° to 180°** and back to **0°**, confirming that all motors work correctly.
-
-▶️ [Watch Video](videos/four-servos.mp4)
+▶️ [Watch Video](videos/video2.mp4)
 
 ---
 
-### 4. Final Result
+
+
+### 3. Final Result
 
 This video shows the final version of the project. After completing the movement, the program commands all four servo motors to move to **90°** and remain in that position as the final state.
 
-▶️ [Watch Video](videos/final-90.mp4)
+▶️ [Watch Video](videos/video4.mp4)
 
 ---
 
@@ -79,7 +73,13 @@ This video shows the final version of the project. After completing the movement
 
 You can view the complete Tinkercad project using the link below:
 
-🔗 **Project:** https://your-project-link
+🔗 **Project:** [https://project-link](https://www.tinkercad.com/things/ilEhkjcli5m-fantastic-maimu/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=NmC9zeDLann-G-kyKsJc3J_otkZwdw5-s96dP9OhPmU)
 ## Technologies Used
 - Arduino (C++)
 - Tinkercad
+
+- ---
+
+## Author
+
+**Abdulrahman Nabil Alhazmi**
