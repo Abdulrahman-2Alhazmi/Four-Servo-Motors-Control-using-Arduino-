@@ -32,7 +32,7 @@ This image shows the complete Arduino circuit in Tinkercad, including the Arduin
 
 This video demonstrates the initial test to ensure that the Arduino board is working correctly before connecting the servo motors.
 
-▶️ [Watch Video]([videos/video1.mp4](https://youtu.be/YVoGYUzfTco))
+▶️ [Watch Video]([[videos/video1.mp4](https://youtu.be/YVoGYUzfTco)](https://www.youtube.com/watch?v=YVoGYUzfTco))
 
 ---
 
