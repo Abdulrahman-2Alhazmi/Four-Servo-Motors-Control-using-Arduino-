@@ -39,18 +39,22 @@ This video demonstrates the initial test to ensure that the Arduino board is wor
 
 This video shows one servo motor connected through the breadboard. the motor move from **0° to 180°** and then return to **0°** successfully.
 
-▶️ [Watch Video](videos/video2.mp4)
-
+▶️ [Watch Video](https://youtu.be/Lh7-snFN5WI)
 ---
 
 
+### 3. Four Servo Motors Test
 
-### 3. Final Result
+This video demonstrates all four servo motors connected through the breadboard. They rotate together from **0° to 180°** and back to **0°**, confirming that all motors work correctly.
+
+▶️ [Watch Video](https://youtu.be/njvyu7ISZk0)
+
+
+### 4. Final Result
 
 This video shows the final version of the project. After completing the movement, the program commands all four servo motors to move to **90°** and remain in that position as the final state.
 
-▶️ [Watch Video](videos/video4.mp4)
-
+▶️ [Watch Video](https://youtu.be/lsQdQvgrjPw)
 ---
 
 ## Features
