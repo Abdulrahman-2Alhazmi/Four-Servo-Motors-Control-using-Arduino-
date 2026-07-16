@@ -1,2 +1,85 @@
-# Four-Servo-Motors-Control-using-Arduino-
+# Four Servo Motors Control using Arduino (Tinkercad)
+
+## Overview
 This project demonstrates how to control **four servo motors** using an **Arduino Uno** and a **breadboard** in **Tinkercad**. All four servo motors move together from **0° to 180°**, then return to **0°**. In the final version, the motors stop permanently at **90°**.
+
+---
+
+## Components
+- Arduino Uno
+- Breadboard
+- 4 Servo Motors
+- Jumper Wires
+- Tinkercad Simulation
+
+---
+
+## Project Preview
+
+This image shows the complete Arduino circuit in Tinkercad, including the Arduino Uno, breadboard, and four servo motors used in this project.
+
+**Project Image**
+
+<p align="center">
+  <img src="images/project-preview.png" width="600">
+</p>
+
+---
+
+## Project Demonstration
+
+### 1. Arduino Test
+
+This video demonstrates the initial test to ensure that the Arduino board is working correctly before connecting the servo motors.
+
+▶️ [Watch Video](videos/test-arduino.mp4)
+
+---
+
+### 2. Two Servo Motors Test
+
+This video shows two servo motors connected through the breadboard. Both motors move together from **0° to 180°** and then return to **0°** successfully.
+
+▶️ [Watch Video](videos/two-servos.mp4)
+
+---
+
+### 3. Four Servo Motors Test
+
+This video demonstrates all four servo motors connected through the breadboard. They rotate together from **0° to 180°** and back to **0°**, confirming that all motors work correctly.
+
+▶️ [Watch Video](videos/four-servos.mp4)
+
+---
+
+### 4. Final Result
+
+This video shows the final version of the project. After completing the movement, the program commands all four servo motors to move to **90°** and remain in that position as the final state.
+
+▶️ [Watch Video](videos/final-90.mp4)
+
+---
+
+## Features
+- Control four servo motors simultaneously.
+- Smooth movement from **0° to 180°** and back to **0°**.
+- Final stop at **90°**.
+- Built using Arduino (C++).
+- Simulated and tested in Tinkercad.
+
+---
+
+## Technologies Used
+- Arduino (C++)
+- Tinkercad
+
+---
+
+## Project Link
+
+You can view the complete Tinkercad project using the link below:
+
+🔗 **Project:** https://your-project-link
+## Technologies Used
+- Arduino (C++)
+- Tinkercad
