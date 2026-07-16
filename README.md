@@ -21,7 +21,8 @@ This image shows the complete Arduino circuit in Tinkercad, including the Arduin
 **Project Image**
 
 <p align="center">
-  <img src=""Screenshot 2026-07-16 165148.png"" width="600">
+  <img src="Screenshot 2026-07-16 165148.png
+" width="600">
 </p>
 
 ---
